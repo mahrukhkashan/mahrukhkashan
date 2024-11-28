@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahrukh Kashan</h1>
 <h3 align="center">A computer science student from Lahore, Pakistan, with a passion for solving complex problems and creating innovative solutions. Currently pursuing my B.Sc. in Computer Science. I am eager to contribute to dynamic projects and expand my knowledge.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/bd/fc/08/bdfc08689c5190cbfb16fd666107d5fc.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahrukhkashan&label=Profile%20views&color=0e75b6&style=flat" alt="mahrukhkashan" /> </p>
 
