@@ -1,92 +1,110 @@
-<h1 align="center">Hello World! 👋 I'm Mahrukh Kashan</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Web Developer | Problem Solver</h3>
-
-<p align="center">
-  <a href="[https://mahrukhkashan.github.io/mahrukhkashan-portfolio/](https://mahrukhkashan.github.io/mahrukhkashan-portfolio/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:mahrukhkashan2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="www.linkedin.com/in/mahrukh-kashan-b4941a262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a passionate **Computer Science undergraduate** from Lahore, Pakistan, specializing in full-stack development and innovative problem-solving. My work focuses on creating efficient, user-centric solutions that bridge technology and real-world needs.
-
-**What drives me:**
-- 🔭 Currently building robust web applications with MERN stack and Django
-- 🌱 Mastering Data Structures & Algorithms
-- 💡 Fascinated by AI/ML and its practical applications
-- ✨ Believer in clean code and thoughtful architecture
-
----
-
-### 🛠 Technical Toolkit
-
-#### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
-</p>
-
-#### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahrukhkashan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrukhkashan&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrukhkashan&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
-</p>
-
----
-
-### 🌟 Featured Projects
-
-1. **[EPMS](https://github.com/mahrukhkashan/EPMS)** - Employee Performance Management System (Django)
-2. **[Hotel Management](https://github.com/mahrukhkashan/Hotel-Management-System-in-Python)** - Python-based inventory system
-3. **[FYP Management](https://github.com/mahrukhkashan/FYP_Management_System_-.NET-Project-)** - .NET academic project tracker
-
----
-
-### 📫 Let's Connect
+<h1 align="center">Mahrukh Kashan</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer | AI/ML </h3>
 
 <p align="center">
   <a href="https://mahrukhkashan.github.io/mahrukhkashan-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=react&logoColor=green" alt="Portfolio"/>
   </a>
+  <a href="mailto:mahrukhkashan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## Professional Summary
+
+Computer Science student with demonstrated expertise in full-stack development and software development. Passionate about building scalable solutions with clean, maintainable code. Specializing in:
+
+- Building **full-stack applications**
+- Solving **complex algorithmic problems**
+- Exploring **emerging technologies**
+- Contributing to **open-source projects**
+
+---
+
+## Technical Proficiencies
+
+### Technical Stack
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Backend:**  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+**DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+---
+
+## Professional Projects
+
+### Enterprise Systems
+1. **[Employee Performance Management System](https://github.com/mahrukhkashan/EPMS)**  
+   Django-based solution for tracking employee KPIs with analytics dashboard
+
+2. **[FYP Management System](https://github.com/mahrukhkashan/FYP_Management_System_-.NET-Project-)**  
+   .NET application for academic project tracking and evaluation
+
+3. **[Hotel Management System](https://github.com/mahrukhkashan/Hotel-Management-System-in-Python)**  
+   Python application for inventory and booking management
+
+4. **[Cars Inventory System](https://github.com/mahrukhkashan/Cars_Inventory_system-.NET-)**  
+   WinForms application for vehicle inventory tracking
+
+### Web Applications
+
+5. **[Professional Portfolio](https://mahrukhkashan.github.io/mahrukhkashan-portfolio/)**  
+   Responsive personal portfolio showcasing projects and skills (React/Bootstrap)
+
+6. **[Event Management System](https://github.com/mahrukhkashan/Event-Management-System)**  
+   Full-stack solution for event planning and attendee management
+
+7. **[Business Frontend Template](https://github.com/mahrukhkashan/Basic-Business-FrontEnd)**  
+   Responsive HTML/CSS template for corporate websites
+
+8. **[Static Site Generator](https://github.com/mahrukhkashan/SSG-gatsby)**  
+   Gatsby-based SSG for optimized web content
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mahrukhkashan&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrukhkashan&layout=compact&theme=merko&hide_border=true&langs_count=6" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahrukhkashan&theme=merko&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Contact Information
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mahrukh-kashan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/mahrukhkashan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="mailto:mahrukhkashan2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://mahrukhkashan.github.io/mahrukhkashan-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mahrukhkashan&label=Profile%20views&color=0e75b6&style=flat" alt="mahrukhkashan" /> 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mahrukhkashan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
