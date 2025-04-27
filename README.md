@@ -67,7 +67,7 @@ Computer Science student with demonstrated expertise in full-stack development a
 5. **[Professional Portfolio](https://mahrukhkashan.github.io/mahrukhkashan-portfolio/)**  
    Responsive personal portfolio showcasing projects and skills (React/Bootstrap)
 
-6. **[Event Management System](https://github.com/mahrukhkashan/Event-Management-System)**  
+6. **[Event Management System]((https://github.com/mahrukhkashan/Event-Ticketing-Platform.git))**  
    Full-stack solution for event planning and attendee management
 
 7. **[Business Frontend Template](https://github.com/mahrukhkashan/Basic-Business-FrontEnd)**  
