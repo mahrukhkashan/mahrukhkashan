@@ -82,7 +82,7 @@ Software and AI/ML Engineer who ships production systems end-to-end — from dat
    ML models predicting sleep quality and flagging disorders (insomnia, sleep apnea) at 88% accuracy; published as a conference paper. Introduced a novel Sleep-Stress Resilience Index (SSRI) metric.
 
 ### Startup
-3. **[TVIGO](#) — Women-Only Ride-Hailing Venture** *(Co-Founder)*  
+3. **[TVIGO](#) — Women-Only Ride-Hailing Venture**   
    Co-building a ride-hailing platform for women in Pakistan — driving product decisions, financial modeling, investor-facing materials, and early technical direction.
 
 ### Enterprise Systems
