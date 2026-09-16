@@ -2,13 +2,12 @@
 <h3 align="center">Software & AI/ML Engineer | Full-Stack Developer | B.Sc. Computer Science</h3>
 
 <p align="center">
-  <a href="https://mahrukhkashan.github.io/mahrukhkashan-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=react&logoColor=green" alt="Portfolio"/>
-  </a>
   <a href="mailto:mahrukh.contact@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<p align="center">📧 mahrukh.contact@gmail.com</p>
 
 ---
 
@@ -82,7 +81,7 @@ Software and AI/ML Engineer who ships production systems end-to-end — from dat
    ML models predicting sleep quality and flagging disorders (insomnia, sleep apnea) at 88% accuracy; published as a conference paper. Introduced a novel Sleep-Stress Resilience Index (SSRI) metric.
 
 ### Startup
-3. **[TVIGO](#) — Women-Only Ride-Hailing Venture**   
+3. **TVIGO — Women-Only Ride-Hailing Venture**  
    Co-building a ride-hailing platform for women in Pakistan — driving product decisions, financial modeling, investor-facing materials, and early technical direction.
 
 ### Enterprise Systems
@@ -99,16 +98,13 @@ Software and AI/ML Engineer who ships production systems end-to-end — from dat
    WinForms application for vehicle inventory tracking
 
 ### Web Applications
-8. **[Professional Portfolio](https://mahrukhkashan.github.io/mahrukhkashan-portfolio/)**  
-   Responsive personal portfolio showcasing projects and skills (React/Bootstrap)
-
-9. **[Event Management System](https://github.com/mahrukhkashan/Event-Ticketing-Platform)**  
+8. **[Event Management System](https://github.com/mahrukhkashan/Event-Ticketing-Platform)**  
    Full-stack event platform with user registration, booking, secure authentication, and role-based permissions via RESTful APIs (MERN Stack)
 
-10. **[Business Frontend Template](https://github.com/mahrukhkashan/Basic-Business-FrontEnd)**  
-    Responsive HTML/CSS template for corporate websites
+9. **[Business Frontend Template](https://github.com/mahrukhkashan/Basic-Business-FrontEnd)**  
+   Responsive HTML/CSS template for corporate websites
 
-11. **[Static Site Generator](https://github.com/mahrukhkashan/SSG-gatsby)**  
+10. **[Static Site Generator](https://github.com/mahrukhkashan/SSG-gatsby)**  
     Gatsby-based SSG for optimized web content
 
 ---
@@ -142,10 +138,9 @@ CGPA: 3.5 / 4.00
   <a href="mailto:mahrukh.contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://mahrukhkashan.github.io/mahrukhkashan-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
+
+<p align="center">📧 mahrukh.contact@gmail.com</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mahrukhkashan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
