@@ -65,12 +65,6 @@ Software and AI/ML Engineer who ships production systems end-to-end — from dat
 ---
 
 ## Work Experience
-
-**Software Engineer** — *Devden (Remote)* · Jul – Aug 2026
-- Built an automated monthly SEO reporting system for dental-practice clients end-to-end, integrating SEMrush, Yext (including AI Visibility via Scout), Google Analytics, GoHighLevel, and HubSpot into a single reusable reporting pipeline.
-- Designed and implemented a secure, token-based dynamic web report with preserved report history, per-client conditional rendering, and AI-generated summary banners grounded strictly in that month's data.
-- Architected the backend, database schema, and third-party API integration layer, plus admin tooling for send-history tracking, error logging, and API credential expiration alerts.
-
 **Frontend Engineering Intern** — *Systems Limited* · Jun – Aug 2025
 - Engineered responsive, production-grade UI components in React, JavaScript, Bootstrap, and SASS.
 - Delivered a pixel-perfect clone of amaterasu.ai's UI, matching modern design patterns down to the pixel.
